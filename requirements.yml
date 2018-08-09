@@ -17,4 +17,4 @@ dependencies:
   - xlsxwriter
   - pip:
     - utm==0.4.1
-
+    - geocoder==1.38.1
